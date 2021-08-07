@@ -14,5 +14,9 @@ namespace ConsoleAppGit
         {
             _data = data;
         }
+
+        public void B()
+        {
+        }
     }
 }
