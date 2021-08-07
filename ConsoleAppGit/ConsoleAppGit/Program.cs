@@ -14,8 +14,6 @@
 
             Logger logger = new();
             logger.Log("Logged string");
-
-            Console.WriteLine("This is change for feature-1 branch");
         }
     }
 }
