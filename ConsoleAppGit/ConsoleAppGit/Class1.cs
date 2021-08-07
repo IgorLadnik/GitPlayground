@@ -9,4 +9,8 @@ namespace ConsoleAppGit
     public class Class1
     {
     }
+
+    public void A() 
+    {
+    }
 }
