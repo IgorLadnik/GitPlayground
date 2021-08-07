@@ -18,5 +18,9 @@ namespace ConsoleAppGit
         public void B()
         {
         }
+
+        public void B1()
+        {
+        }
     }
 }
