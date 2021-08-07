@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace ConsoleAppGit
 {
     class Program
     {
@@ -11,6 +11,9 @@ namespace ConsoleApp2
             Console.WriteLine("This is change done in main branch");
 
             Console.WriteLine("This is change done in main branch before rebase");
+
+            Logger logger = new();
+            logger.Log("Logged string");
         }
     }
 }
