@@ -1,4 +1,6 @@
-﻿namespace ConsoleAppGit
+﻿using System;
+
+namespace ConsoleAppGit
 {
     class Program
     {
@@ -12,8 +14,7 @@
 
             Console.WriteLine("Some change in feature-1 branch before rebase");
 
-            Logger logger = new();
-            logger.Log("Logged string");
+            Feature1 feature1 = new("abc");
         }
     }
 }
