@@ -12,15 +12,8 @@ namespace ConsoleAppGit
         {
         }
 
-        public void A1()
-        {
-        }
-
-        public void A2()
-        {
-        }
-
-        public void A3()
+        // Change in main
+        public void TestA()
         {
         }
     }
