@@ -26,5 +26,10 @@ namespace ConsoleAppGit
         public void B2()
         {
         }
+
+        // Change in feature-1
+        public void TestB()
+        {
+        }
     }
 }
