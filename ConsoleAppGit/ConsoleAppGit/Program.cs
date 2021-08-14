@@ -19,7 +19,7 @@ namespace ConsoleAppGit
 
             Feature1 feature1 = new("abc");
 
-            feature1.B1();
+            feature1.TestB();
         }
     }
 }
